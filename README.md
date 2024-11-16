@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abdulkerimN/abdu2123/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulkerimN/abdu2123/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abdulkerimN/abdu2123/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdulkerimN/abdu2123/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdulkerimN/abdu2123/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
