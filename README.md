@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abdulkerimN/abdu2123/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abdulkerimN/abdu2123/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/abdulkerimN/abdu2123/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdulkerimN/abdu2123/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -178,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abdulkerimN/abdu2123/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
