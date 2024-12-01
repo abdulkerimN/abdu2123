@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdulkerimN/abdu2123/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abdulkerimN/abdu2123/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abdulkerimN/abdu2123/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abdulkerimN/abdu2123/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdulkerimN/abdu2123/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulkerimN/abdu2123/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abdulkerimN/abdu2123/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abdulkerimN/abdu2123/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abdulkerimN/abdu2123/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulkerimN/abdu2123/tree/master/0125-valid-palindrome) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abdulkerimN/abdu2123/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/abdulkerimN/abdu2123/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
