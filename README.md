@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abdulkerimN/abdu2123/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdulkerimN/abdu2123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abdulkerimN/abdu2123/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/abdulkerimN/abdu2123/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulkerimN/abdu2123/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/abdulkerimN/abdu2123/tree/master/0649-dota2-senate) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/abdulkerimN/abdu2123/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/abdulkerimN/abdu2123/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/abdulkerimN/abdu2123/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/abdulkerimN/abdu2123/tree/master/0860-design-circular-queue) |
 ## Iterator
