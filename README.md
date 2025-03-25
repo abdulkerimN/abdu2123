@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0860-design-circular-queue](https://github.com/abdulkerimN/abdu2123/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/abdulkerimN/abdu2123/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/abdulkerimN/abdu2123/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/abdulkerimN/abdu2123/tree/master/0148-sort-list) |
+| [0860-design-circular-queue](https://github.com/abdulkerimN/abdu2123/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abdulkerimN/abdu2123/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
+| [0860-design-circular-queue](https://github.com/abdulkerimN/abdu2123/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/abdulkerimN/abdu2123/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/abdulkerimN/abdu2123/tree/master/0860-design-circular-queue) |
 ## Iterator
 |  |
 | ------- |
