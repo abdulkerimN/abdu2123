@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/abdulkerimN/abdu2123/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulkerimN/abdu2123/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdulkerimN/abdu2123/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/abdulkerimN/abdu2123/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/abdulkerimN/abdu2123/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/abdulkerimN/abdu2123/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulkerimN/abdu2123/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
