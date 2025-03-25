@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulkerimN/abdu2123/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abdulkerimN/abdu2123/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdulkerimN/abdu2123/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/abdulkerimN/abdu2123/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulkerimN/abdu2123/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abdulkerimN/abdu2123/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abdulkerimN/abdu2123/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulkerimN/abdu2123/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
