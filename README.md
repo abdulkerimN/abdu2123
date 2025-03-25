@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abdulkerimN/abdu2123/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/abdulkerimN/abdu2123/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,9 +308,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abdulkerimN/abdu2123/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abdulkerimN/abdu2123/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdulkerimN/abdu2123/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
