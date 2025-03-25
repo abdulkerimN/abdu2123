@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulkerimN/abdu2123/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulkerimN/abdu2123/tree/master/0070-climbing-stairs) |
+| [0867-new-21-game](https://github.com/abdulkerimN/abdu2123/tree/master/0867-new-21-game) |
 ## Array
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulkerimN/abdu2123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/abdulkerimN/abdu2123/tree/master/0867-new-21-game) |
 ## Memoization
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abdulkerimN/abdu2123/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/abdulkerimN/abdu2123/tree/master/0867-new-21-game) |
 ## Greedy
 |  |
 | ------- |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/abdulkerimN/abdu2123/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
