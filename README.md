@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0940-fruit-into-baskets](https://github.com/abdulkerimN/abdu2123/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/abdulkerimN/abdu2123/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abdulkerimN/abdu2123/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdulkerimN/abdu2123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abdulkerimN/abdu2123/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/abdulkerimN/abdu2123/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/abdulkerimN/abdu2123/tree/master/0867-new-21-game) |
+| [0940-fruit-into-baskets](https://github.com/abdulkerimN/abdu2123/tree/master/0940-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
