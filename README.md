@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abdulkerimN/abdu2123/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulkerimN/abdu2123/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abdulkerimN/abdu2123/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abdulkerimN/abdu2123/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/abdulkerimN/abdu2123/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abdulkerimN/abdu2123/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -239,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abdulkerimN/abdu2123/tree/master/0948-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
