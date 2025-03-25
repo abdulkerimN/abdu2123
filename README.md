@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abdulkerimN/abdu2123/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abdulkerimN/abdu2123/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdulkerimN/abdu2123/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/abdulkerimN/abdu2123/tree/master/0148-sort-list) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/abdulkerimN/abdu2123/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abdulkerimN/abdu2123/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Greedy
 |  |
 | ------- |
