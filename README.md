@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0948-sort-an-array](https://github.com/abdulkerimN/abdu2123/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulkerimN/abdu2123/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulkerimN/abdu2123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdulkerimN/abdu2123/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abdulkerimN/abdu2123/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -273,10 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abdulkerimN/abdu2123/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
