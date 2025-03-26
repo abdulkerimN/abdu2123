@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
+| [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0859-design-circular-deque](https://github.com/abdulkerimN/abdu2123/tree/master/0859-design-circular-deque) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/abdulkerimN/abdu2123/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/abdulkerimN/abdu2123/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/abdulkerimN/abdu2123/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abdulkerimN/abdu2123/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdulkerimN/abdu2123/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abdulkerimN/abdu2123/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bit Manipulation
@@ -345,4 +348,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/abdulkerimN/abdu2123/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/abdulkerimN/abdu2123/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
