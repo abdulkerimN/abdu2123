@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/abdulkerimN/abdu2123/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/abdulkerimN/abdu2123/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/abdulkerimN/abdu2123/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abdulkerimN/abdu2123/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0859-design-circular-deque](https://github.com/abdulkerimN/abdu2123/tree/master/0859-design-circular-deque) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abdulkerimN/abdu2123/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/abdulkerimN/abdu2123/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abdulkerimN/abdu2123/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/abdulkerimN/abdu2123/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abdulkerimN/abdu2123/tree/master/0503-next-greater-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
