@@ -1,14 +1,10 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        numMap = {}
-        n = len(nums)
-        # Build the hash table
-        for i in range(n):
-            numMap[nums[i]] = i
+    def twoSum(self,nums,target):
+        d={}
+        for i,num in enumerate(nums):
+            complement=target-num
 
-        # Find the complement
-        for i in range(n):
-            complement = target - nums[i]
-            if complement in numMap and numMap[complement] != i:
-                return [i, numMap[complement]]
-        return []  # No solution found
+            if complement in d:
+                return [d[complement],i]
+
+            d[num]=i
