@@ -367,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/abdulkerimN/abdu2123/tree/master/0456-132-pattern) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abdulkerimN/abdu2123/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
