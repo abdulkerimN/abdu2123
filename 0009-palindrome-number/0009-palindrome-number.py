@@ -1,9 +1,20 @@
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        if x < 0 or (x % 10 == 0 and x != 0):
+        # Negative numbers cannot be palindromes
+        if x < 0:
             return False
-        revertedNumber = 0
-        while x > revertedNumber:
-            revertedNumber = revertedNumber * 10 + x % 10
+
+        original_number = x
+        reversed_number = 0
+
+        # Reverse the number
+        while x > 0:
+            last_digit = x % 10
+
+            reversed_number = reversed_number * 10 + last_digit
+
             x //= 10
-        return x == revertedNumber or x == revertedNumber // 10
+
+        # Compare the reversed number with the original
+        return original_number == reversed_number
