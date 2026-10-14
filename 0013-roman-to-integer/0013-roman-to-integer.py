@@ -1,26 +1,24 @@
+
 class Solution:
     def romanToInt(self, s: str) -> int:
-        roman ={
-            'I': 1,
-            'V': 5,
-            'X': 10,
-            'L': 50,
-            'C': 100,
-            'D': 500,
-            'M': 1000
+        roman_values = {
+            "I": 1,
+            "V": 5,
+            "X": 10,
+            "L": 50,
+            "C": 100,
+            "D": 500,
+            "M": 1000
         }
 
-        total=0
-        preval=0
+        total = 0
 
-        for i in reversed(s):
-            curval=roman[i]
-            if curval < preval:
-                total-=curval
+        for index in range(len(s)):
+            current_value = roman_values[s[index]]
+
+            if index + 1 < len(s) and current_value < roman_values[s[index + 1]]:
+                total -= current_value
             else:
-                total+=curval
-            preval=curval
+                total += current_value
 
         return total
-
-        
