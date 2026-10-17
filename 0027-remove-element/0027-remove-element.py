@@ -1,7 +1,11 @@
+
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        # This repeatedly checks if val is in the nums list
-        while val in nums:
-            # If it is, then this line removes the first instance
-            nums.remove(val)
-        # This code repeats until val is no longer in the nums list
+    def removeElement(self, nums: list[int], val: int) -> int:
+        keep_index = 0
+
+        for current_index in range(len(nums)):
+            if nums[current_index] != val:
+                nums[keep_index] = nums[current_index]
+                keep_index += 1
+
+        return keep_index
