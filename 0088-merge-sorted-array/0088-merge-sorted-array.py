@@ -1,20 +1,36 @@
+
 class Solution:
     def merge(self, nums1, m, nums2, n):
-        # Pointers for nums1, nums2, and the last position in nums1
-        i, j, k = m - 1, n - 1, m + n - 1
-        
-        # Merge nums1 and nums2 from the end
-        while i >= 0 and j >= 0:
-            if nums1[i] > nums2[j]:
-                nums1[k] = nums1[i]
-                i -= 1
+        # Copy the real values from nums1
+        first = nums1[:m]
+
+        # Copy the values from nums2
+        second = nums2[:n]
+
+        # Start comparing from the beginning
+        i = 0
+        j = 0
+        k = 0
+
+        # Merge the two sorted arrays
+        while i < m and j < n:
+            if first[i] <= second[j]:
+                nums1[k] = first[i]
+                i += 1
             else:
-                nums1[k] = nums2[j]
-                j -= 1
-            k -= 1
-        
-        # If there are remaining elements in nums2, copy them
-        while j >= 0:
-            nums1[k] = nums2[j]
-            j -= 1
-            k -= 1
+                nums1[k] = second[j]
+                j += 1
+
+            k += 1
+
+        # Copy any remaining values from the first array
+        while i < m:
+            nums1[k] = first[i]
+            i += 1
+            k += 1
+
+        # Copy any remaining values from the second array
+        while j < n:
+            nums1[k] = second[j]
+            j += 1
+            k += 1
