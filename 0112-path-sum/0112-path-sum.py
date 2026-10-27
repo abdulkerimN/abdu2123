@@ -6,17 +6,19 @@
 #         self.right = right
 
 class Solution:
-    def hasPathSum(self, root: TreeNode, targetSum: int) -> bool:
-        # Base case: if the tree is empty
-        if not root:
+    def hasPathSum(self, root, targetSum):
+        # If the tree is empty, no path exists
+        if root is None:
             return False
-        
-        # If it's a leaf node, check if the target sum equals the node's value
-        if not root.left and not root.right:
-            return root.val == targetSum
-        
-        # Recursively check the left and right subtrees with the reduced target sum
+
+        # Subtract the current node's value
         targetSum -= root.val
-        
-        return self.hasPathSum(root.left, targetSum) or self.hasPathSum(root.right, targetSum)
-    
+
+        # Check whether this is a leaf
+        if root.left is None and root.right is None:
+            return targetSum == 0
+
+        # Check the left path or the right path
+        return (self.hasPathSum(root.left, targetSum) or
+                self.hasPathSum(root.right, targetSum))
+       
