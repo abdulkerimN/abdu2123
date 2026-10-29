@@ -1,13 +1,10 @@
 
 class Solution:
-    def getRow(self, rowIndex: int):
-        # Initialize the row as an array with a single element [1]
+    def getRow(self, rowIndex):
         row = [1] * (rowIndex + 1)
-        
-        # Compute each element in the row using the iterative binomial coefficient formula
-        for k in range(1, rowIndex + 1):
-            # Update each element in reverse order to ensure we use the previous element
-            row[k] = row[k - 1] * (rowIndex - k + 1) // k
-        
+
+        for i in range(1, rowIndex):
+            for j in range(i, 0, -1):
+                row[j] = row[j] + row[j - 1]
+
         return row
-      
