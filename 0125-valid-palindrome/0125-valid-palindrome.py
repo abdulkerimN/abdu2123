@@ -1,18 +1,24 @@
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        left = 0
+        right = len(s) - 1
 
-        string=[]
+        while left < right:
+            # Skip characters that are not letters or numbers
+            if not s[left].isalnum():
+                left += 1
+                continue
 
-        for i in s:
-            if i.isalnum():
-                string.append(i.lower())
-            else:
+            if not s[right].isalnum():
+                right -= 1
                 continue
-        index_comp=(len(string)+1)//2
-        for i in range(index_comp):
-            if string[i]==string[len(string)-1-i]:
-                continue
-            else:
+
+            # Compare characters without case sensitivity
+            if s[left].lower() != s[right].lower():
                 return False
-        return True
 
+            left += 1
+            right -= 1
+
+        return True
